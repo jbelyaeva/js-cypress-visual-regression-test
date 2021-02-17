@@ -1,0 +1,13 @@
+{
+  "screenshotsFolder": "./cypress/snapshots/actual",
+  "trashAssetsBeforeRuns": false,
+  "video": false,
+  "env": {
+    "type": "actual",
+    "allureLogCypress": false,
+    "allure": true
+  },
+  "baseUrl": "http://localhost:3000",
+  "viewportHeight": 1080,
+  "viewportWidth": 1920
+}
