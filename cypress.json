@@ -1,6 +1,6 @@
 {
   "screenshotsFolder": "./cypress/snapshots/actual",
-  "trashAssetsBeforeRuns": false,
+  "trashAssetsBeforeRuns": true,
   "video": false,
   "env": {
     "type": "actual",
